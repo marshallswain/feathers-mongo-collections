@@ -16,14 +16,6 @@ npm install feathers-mongo-database --save
 
 `feathers-mongo-collections` works just like a standard [FeatherJS](https://github.com/feathersjs) service, except for the get/findOne.  It uses the collection name as the `id` value when performing `create`, `update`, and `remove`.
 
-## Example Usage: 
-
-Create a Mongoose model the same way that you normally would.  Here is an example todos service:
-
-```js
-// Coming Soon
-```
-
 ## License
 
 [MIT](LICENSE)

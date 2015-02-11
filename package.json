@@ -1,11 +1,11 @@
 {
-  "name": "feathers-mongo-database",
+  "name": "feathers-mongo-collections",
   "version": "0.0.1",
-  "description": "Create a MongoDB database service for FeathersJS.",
-  "main": "lib/feathers-mongo-database.js",
+  "description": "MongoDB collections service for FeathersJS.",
+  "main": "lib/feathers-mongo-collections.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/marshallswain/feathers-mongo-databases.git"
+    "url": "https://github.com/marshallswain/feathers-mongo-collections.git"
   },
   "keywords": [
     "feathers",
@@ -23,10 +23,11 @@
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/marshallswain/feathers-mongo-databases/issues"
+    "url": "https://github.com/marshallswain/feathers-mongo-collections/issues"
   },
-  "homepage": "https://github.com/marshallswain/feathers-mongo-databases",
+  "homepage": "https://github.com/marshallswain/feathers-mongo-collections",
   "dependencies": {
+    "async":"~0.8.0"
   },
   "readmeFilename": "README.md"
 }

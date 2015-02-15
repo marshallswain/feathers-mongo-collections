@@ -1,6 +1,6 @@
 {
   "name": "feathers-mongo-collections",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "MongoDB collections service for FeathersJS.",
   "main": "lib/feathers-mongo-collections.js",
   "repository": {
@@ -9,6 +9,7 @@
   },
   "keywords": [
     "feathers",
+    "feathers-service",
     "REST",
     "Socket.io",
     "realtime",
